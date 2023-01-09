@@ -19,3 +19,7 @@
 4. git config --global core.safecrlf warn - формат окончания строк
 5. git config --global core.quotepath off - нечитаемые строки в неправильной кодировке
 6. git config --global init.defaultBranch main - в новом репозитории основная ветка будет называться main
+
+## Командная разработка:
+1. git pull - обновить
+2. git revert - отменить изменения в коммите
